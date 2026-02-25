@@ -22,7 +22,7 @@ Este proyecto contiene pruebas automatizadas para la API pública **Petstore Swa
 
 ---
 
-## Ejecución de pruebas
+## Comandos para pruebas por tags
 
 ### Ejecutar todos los test
 mvn clean test -Dtest=UsersRunner -Dkarate.options="--tags @regresion"
@@ -40,7 +40,7 @@ mvn clean test -Dtest=UsersRunner -Dkarate.options="--tags @TEST-5"
 
 ---
 
-## Casos automatizados
+## Resumen de casos automatizados
 
 ### STORE (`store.feature`)
 - **TEST-1:** `GET /store/inventory` → valida 200 e imprime inventario por estado.
