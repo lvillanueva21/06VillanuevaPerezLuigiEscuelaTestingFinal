@@ -2,7 +2,10 @@
 
 Este proyecto contiene pruebas automatizadas para la API pública **Petstore Swagger** usando **Karate y Maven**. Incluye casos **HappyPath** y **UnhappyPath** para los módulos **STORE** y **USER**.
 
+##CONTACTO
+
 **Autor:** Luigi Villanueva Perez
+**Correo::** luigi13.livp@gmail.com
 
 ---
 
