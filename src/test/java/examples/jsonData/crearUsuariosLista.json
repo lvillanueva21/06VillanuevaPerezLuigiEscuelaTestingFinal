@@ -1,0 +1,22 @@
+[
+  {
+    "id": 2001,
+    "username": "luigi_nttdata",
+    "firstName": "Luigi",
+    "lastName": "Villanueva",
+    "email": "lvillanueva@nttdata.com",
+    "password": "123456",
+    "phone": "964881841",
+    "userStatus": 0
+  },
+  {
+    "id": 2002,
+    "username": "israel_nttdata",
+    "firstName": "Israel",
+    "lastName": "Perez",
+    "email": "iperez@nttdata.com",
+    "password": "abcdef",
+    "phone": "965213034",
+    "userStatus": 0
+  }
+]
