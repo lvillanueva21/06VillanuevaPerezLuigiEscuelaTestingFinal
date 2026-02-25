@@ -15,7 +15,7 @@ Este proyecto contiene pruebas automatizadas para la API pública **Petstore Swa
 
 ---
 
-## Configuración (resumen)
+## Configuración
 - `karate-config.js` define `apiPetStore` (base URL).
 - Los datos y bodies se leen desde archivos **JSON** con `read()`.
 - Runner único para 2 feature: `UsersRunner.java` (ejecuta `store` y `users`).
